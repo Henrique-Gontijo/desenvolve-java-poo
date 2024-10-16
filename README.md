@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1>Projeto Desenvolve: Introdução à Programação Orientada a Objetos</h1>
+    <h1>Projeto Desenvolve: Introdução à POO com Java</h1>
     <ul>
       <li><strong>Cidade:</strong> Bom Despacho-MG</li>
       <li><strong>Disciplina:</strong> Programação Orientada a Objetos</li>
