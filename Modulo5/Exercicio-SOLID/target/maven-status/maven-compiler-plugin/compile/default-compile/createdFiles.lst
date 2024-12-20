@@ -1,0 +1,12 @@
+com/mycompany/app/Main.class
+com/mycompany/app/Interface/EstrategiaPublicacao.class
+com/mycompany/app/Model/Pessoa.class
+com/mycompany/app/Model/Autor.class
+com/mycompany/app/Model/Emprestimo.class
+com/mycompany/app/Model/Livro.class
+com/mycompany/app/Model/Usuario.class
+com/mycompany/app/Model/Artigo.class
+com/mycompany/app/Strategy/EstrategiaPublicacaoArtigo.class
+com/mycompany/app/Strategy/EstrategiaPublicacaoLivro.class
+com/mycompany/app/Model/Publicacao.class
+com/mycompany/app/Model/UsuarioAutor.class
